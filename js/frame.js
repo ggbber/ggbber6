@@ -1,0 +1,11 @@
+
+function main() {
+
+(function () {
+	
+
+}());
+
+
+}
+main();
